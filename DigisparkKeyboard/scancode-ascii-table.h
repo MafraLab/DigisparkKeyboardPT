@@ -68,7 +68,7 @@ const unsigned char ascii_to_scan_code_table[] PROGMEM = {
   /* ASCII:  61 */ 167,
   /* ASCII:  62 */ 177,
   /* ASCII:  63 */ 173,
-  /* ASCII:  64 */ 95,
+  /* ASCII:  64 */ 124,
   /* ASCII:  65 */ 132,
   /* ASCII:  66 */ 133,
   /* ASCII:  67 */ 134,
